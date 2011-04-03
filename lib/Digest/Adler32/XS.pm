@@ -3,8 +3,6 @@ package Digest::Adler32::XS;
 use warnings;
 use strict;
 
-our $VERSION = '0.03';
-
 use base qw(Digest::base DynaLoader);
 
 bootstrap Digest::Adler32::XS;

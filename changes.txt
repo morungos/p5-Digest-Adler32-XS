@@ -1,3 +1,7 @@
+0.04 - 3rd April 2010
+
+- Moved to github and Dist::Zilla
+
 0.03 - 4th April 2010
 
 - Changed "use parent" to "use base" for compatibility with older Perls
